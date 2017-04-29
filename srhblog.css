@@ -1,0 +1,48 @@
+*{ margin-top:0px; margin-right:0px;margin-left:0px; margin-bottom:0px;} 
+ body{ background-color:orange; }
+ header{ background:black; color:orange; padding:10px; height: 45px; font-size:40px; 
+ font-weight:10px; text-align:center;  font-family: verdena; }
+ 
+ ul{list-style-type:none; float:left; }
+ 
+ ul li a{text-decoration:none; font-size:24px;  margin-left:0px;}
+ 
+ ul li{ padding:15px; float:left; line-height:8px; border:2px solid orange; }
+
+ 
+#seconddiv{ background-color: rgb(242, 101, 34); height:40px; }
+
+img{position:absolute; top:0px; left:50px;}
+a{ color:black;}
+li:hover{background-color:skyblue; border-radius:3px; height:10px;display:inline; }
+li:focus{background-color:blue;}
+#nav{padding-left:215px; display:block;}
+
+article{ height: 585px; width:300px; float: left; background-color: orange; text-align: center;
+    color: rgb(242, 101, 34); border-radius: 10px; border: 5px solid  rgb(242, 101, 34);font-size: 20px;
+ }
+
+article h2{ height:40px; background-color:black; } 
+article section{ height:545px; background-color:rgb(242, 101, 34); color:black; } 
+
+#middleimg{ margin-left:264px; margin-top:110px; }
+#onlytable{margin-left:6px; margin-right:6px; margin-top:6px; margin-bottom:6px; 
+           height:250px; padding-bottom:3px; width:0px;  border-collapse:collapse; border-radius:5px;}
+		   
+	
+#table{	margin-top:20px; height:360px; float:right; margin-right:5px; background-color:yellow;
+         border-radius:20px; border:2px solid yellow;   position:relative;  }
+#pointstable{background-color:skyblue;}
+#caption{ background-color:blue; color:white;}
+#teams{background-color:black; color:white;}
+#onlytable,th,td{padding:7px;}
+#down{ width:1030px;height:205px; background-color:yellow; float:right;  margin-top:5px;margin-right:5px;}
+#downimg{ margin-top:500px; margin-left: 260px; }
+
+footer{ height:30px; background-color:black; position: relative; margin-top: 600px; 
+                 padding-top:10px; text-align: center; color:orange;   }
+
+#vivoipl{left:70px; border-radius:10px; top: 8px;}
+
+
+
